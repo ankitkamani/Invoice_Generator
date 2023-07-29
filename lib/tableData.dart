@@ -1,32 +1,16 @@
-import 'package:flutter/material.dart';
+class model {
+  String? customerName;
+  String? total;
+  List? itemData;
+  String? phoneNumber;
+  dynamic billDate;
 
-class tableData extends StatefulWidget {
-  const tableData({super.key});
-
-  @override
-  State<tableData> createState() => _tableDataState();
+  model(
+      {this.customerName,
+      this.total,
+      this.itemData,
+      this.phoneNumber,
+      required this.billDate});
 }
 
-class _tableDataState extends State<tableData> {
-  @override
-  Widget build(BuildContext context) {
-    return DataTable(columns: const [
-      DataColumn(label: Text("Sr no.")),
-      DataColumn(label: Text("Products")),
-      DataColumn(label: Text("Rate")),
-      DataColumn(label: Text("Quantity")),
-      DataColumn(label: Text("Amount")),
-    ], rows: [
-      ...List.generate(
-        5,
-        (index) => DataRow(cells: [
-          DataCell(Text("$index")),
-          DataCell(Text("abc$index")),
-          const DataCell(Text("100")),
-          DataCell(Text("$index")),
-          DataCell(Text("${index*100}")),
-        ]),
-      )
-    ]);
-  }
-}
+List<model> invoice = [];
