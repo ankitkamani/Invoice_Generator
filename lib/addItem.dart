@@ -7,20 +7,6 @@ class addItem extends StatefulWidget {
   State<addItem> createState() => _addItemState();
 }
 
-// Widget addItemDesign(
-//     {required TextEditingController controlleritemname,
-//     required TextEditingController controllerprize,
-//     required TextEditingController controllerqt,
-//     required String labelName,
-//     required String hintText}) {
-//   return Padding(
-//     padding: const EdgeInsets.all(8.0),
-//     child: Column(mainAxisSize: MainAxisSize.min,crossAxisAlignment: CrossAxisAlignment.start, children: [
-//
-//     ]),
-//   );
-// }
-
 List tempData = [];
 
 class _addItemState extends State<addItem> {
