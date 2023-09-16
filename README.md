@@ -22,14 +22,14 @@ Project Technologies:
 
 <table>
   <tr>
-    <td> <img src="https://github.com/ankitkamani/pdf_bill_maker/assets/100353312/42ede57d-e3bc-4470-93ed-236006d29ebd"  alt="2" width = 360px height = 640px ></td>
-    <td><img src="https://github.com/ankitkamani/pdf_bill_maker/assets/100353312/dbe38111-7dd3-40eb-a34c-6590af65a43e" alt="2" width = 360px height = 640px></td>
+    <td> <img src="https://github.com/ankitkamani/Invoice_Generator/assets/100353312/af46e615-fbbc-495d-830f-955c8b4f77ab"  alt="2" width = 360px height = 740px ></td>
+    <td><img src="https://github.com/ankitkamani/Invoice_Generator/assets/100353312/1d475ecb-757d-4b6b-bbc6-fdb1cffbc9b0" alt="2" width = 360px height = 740px></td>
   </tr> 
   <tr>
-    <td><img src="https://github.com/ankitkamani/pdf_bill_maker/assets/100353312/81868df0-5576-43a9-bc49-3281d5070159" align="right" alt="2" width = 360px height = 640px></td>
-    <td><img src="https://github.com/ankitkamani/pdf_bill_maker/assets/100353312/44bd5458-5811-4910-84b6-272f82ea8156" alt="2" width = 360px height = 640px></td>
+    <td><img src="https://github.com/ankitkamani/Invoice_Generator/assets/100353312/5e2262f3-aab0-4407-8f5d-547841e1157a" align="right" alt="2" width = 360px height = 740px></td>
+    <td><img src="https://github.com/ankitkamani/Invoice_Generator/assets/100353312/55ba32e5-1033-4cb5-bedb-17fcc4fe0188" alt="2" width = 360px height = 740px></td>
   </tr>
   <tr>
-      <td><img src="https://github.com/ankitkamani/pdf_bill_maker/assets/100353312/4c01da13-67f7-453f-b672-925b56054fc5" alt="2" width = 360px height = 640px></td>
+      <td><img src="https://github.com/ankitkamani/Invoice_Generator/assets/100353312/332b19e1-a95e-4504-b8da-406c017e3dd5" alt="2" width = 360px height = 740px></td>
   </tr>
 </table>
